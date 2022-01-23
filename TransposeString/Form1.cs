@@ -80,9 +80,7 @@ namespace TransposeString
             try
             {
                 Clipboard.SetText(result);
-                label1.Visible = true;
-                Thread.Sleep(500);
-                label1.Visible = false;
+                
             }
             catch (Exception ex)
             {

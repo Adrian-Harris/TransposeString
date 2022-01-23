@@ -1,0 +1,17 @@
+C:\Users\adrian\source\repos\TransposeString\TransposeString\bin\Release\net6.0-windows\TransposeString.exe
+C:\Users\adrian\source\repos\TransposeString\TransposeString\bin\Release\net6.0-windows\TransposeString.deps.json
+C:\Users\adrian\source\repos\TransposeString\TransposeString\bin\Release\net6.0-windows\TransposeString.runtimeconfig.json
+C:\Users\adrian\source\repos\TransposeString\TransposeString\bin\Release\net6.0-windows\TransposeString.dll
+C:\Users\adrian\source\repos\TransposeString\TransposeString\bin\Release\net6.0-windows\ref\TransposeString.dll
+C:\Users\adrian\source\repos\TransposeString\TransposeString\bin\Release\net6.0-windows\TransposeString.pdb
+C:\Users\adrian\source\repos\TransposeString\TransposeString\obj\Release\net6.0-windows\TransposeString.Form1.resources
+C:\Users\adrian\source\repos\TransposeString\TransposeString\obj\Release\net6.0-windows\TransposeString.csproj.GenerateResource.cache
+C:\Users\adrian\source\repos\TransposeString\TransposeString\obj\Release\net6.0-windows\TransposeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrian\source\repos\TransposeString\TransposeString\obj\Release\net6.0-windows\TransposeString.AssemblyInfoInputs.cache
+C:\Users\adrian\source\repos\TransposeString\TransposeString\obj\Release\net6.0-windows\TransposeString.AssemblyInfo.cs
+C:\Users\adrian\source\repos\TransposeString\TransposeString\obj\Release\net6.0-windows\TransposeString.csproj.CoreCompileInputs.cache
+C:\Users\adrian\source\repos\TransposeString\TransposeString\obj\Release\net6.0-windows\TransposeString.dll
+C:\Users\adrian\source\repos\TransposeString\TransposeString\obj\Release\net6.0-windows\ref\TransposeString.dll
+C:\Users\adrian\source\repos\TransposeString\TransposeString\obj\Release\net6.0-windows\TransposeString.pdb
+C:\Users\adrian\source\repos\TransposeString\TransposeString\obj\Release\net6.0-windows\TransposeString.genruntimeconfig.cache
+C:\Users\adrian\source\repos\TransposeString\TransposeString\obj\Release\net6.0-windows\TransposeString.csproj.AssemblyReference.cache

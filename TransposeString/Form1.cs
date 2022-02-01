@@ -13,15 +13,12 @@ namespace TransposeString
         {
             InitializeComponent();
             this.notifyIcon1.ContextMenuStrip.Items.Add(button1.Text, null, button1_Click);
+            this.notifyIcon1.ContextMenuStrip.Items.Add(button6.Text, null, button6_Click);
+            this.notifyIcon1.ContextMenuStrip.Items.Add(button7.Text, null, button7_Click);
             this.notifyIcon1.ContextMenuStrip.Items.Add(button5.Text, null, button5_Click);
             this.notifyIcon1.ContextMenuStrip.Items.Add(button2.Text, null, button2_Click);
             this.notifyIcon1.ContextMenuStrip.Items.Add(button4.Text, null, button4_Click);
             this.notifyIcon1.ContextMenuStrip.Items.Add(button3.Text, null, button3_Click);
-
-
-            this.notifyIcon1.ContextMenuStrip.Items.Add(button6.Text, null, button6_Click);
-            this.notifyIcon1.ContextMenuStrip.Items.Add(button6.Text, null, button6_Click);
-
 
         }
 

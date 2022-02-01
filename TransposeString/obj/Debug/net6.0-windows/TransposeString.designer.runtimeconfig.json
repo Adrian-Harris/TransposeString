@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\adrian\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\adrian\\.nuget\\packages",
+      "C:\\Users\\adrian.harris\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\adrian.harris\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "configProperties": {

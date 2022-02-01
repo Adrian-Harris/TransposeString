@@ -8,23 +8,23 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\adrian\\.nuget\\packages\\": {},
+    "C:\\Users\\adrian.harris\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adrian\\source\\repos\\TransposeString\\TransposeString\\TransposeString.csproj",
+      "projectUniqueName": "C:\\Users\\adrian.harris\\Source\\Repos\\TransposeString\\TransposeString\\TransposeString.csproj",
       "projectName": "TransposeString",
-      "projectPath": "C:\\Users\\adrian\\source\\repos\\TransposeString\\TransposeString\\TransposeString.csproj",
-      "packagesPath": "C:\\Users\\adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adrian\\source\\repos\\TransposeString\\TransposeString\\obj\\",
+      "projectPath": "C:\\Users\\adrian.harris\\Source\\Repos\\TransposeString\\TransposeString\\TransposeString.csproj",
+      "packagesPath": "C:\\Users\\adrian.harris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\adrian.harris\\Source\\Repos\\TransposeString\\TransposeString\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\adrian.harris\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +32,11 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Users\\adrian.harris\\Source\\repos\\MyDominos.StorePrepList\\packages": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dominos-au.pkgs.visualstudio.com/_packaging/BuildCache/nuget/v3/index.json": {},
+        "https://dominos-au.pkgs.visualstudio.com/_packaging/Dominos-Nuget/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dominos-au/_packaging/dominos-nuget%40Local/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -67,7 +71,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

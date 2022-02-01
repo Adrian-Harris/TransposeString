@@ -17,6 +17,12 @@ namespace TransposeString
             this.notifyIcon1.ContextMenuStrip.Items.Add(button2.Text, null, button2_Click);
             this.notifyIcon1.ContextMenuStrip.Items.Add(button4.Text, null, button4_Click);
             this.notifyIcon1.ContextMenuStrip.Items.Add(button3.Text, null, button3_Click);
+
+
+            this.notifyIcon1.ContextMenuStrip.Items.Add(button6.Text, null, button6_Click);
+            this.notifyIcon1.ContextMenuStrip.Items.Add(button6.Text, null, button6_Click);
+
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -92,6 +98,16 @@ namespace TransposeString
                 MessageBox.Show(ex.Message);
                 return;
             }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            splitLines(@"'", @"', '", @"'");
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            splitLines(@"('", @"', '", @"')");
         }
     }
 }

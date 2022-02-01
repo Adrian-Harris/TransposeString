@@ -37,6 +37,8 @@
             this.button5 = new System.Windows.Forms.Button();
             this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.button6 = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -61,7 +63,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(118, 12);
+            this.button3.Location = new System.Drawing.Point(175, 12);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(42, 23);
             this.button3.TabIndex = 3;
@@ -101,11 +103,33 @@
             this.contextMenuStrip1.Name = "contextMenuStrip1";
             this.contextMenuStrip1.Size = new System.Drawing.Size(61, 4);
             // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(117, 11);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(52, 23);
+            this.button6.TabIndex = 7;
+            this.button6.Text = "\'\',\'\'";
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
+            // button7
+            // 
+            this.button7.Location = new System.Drawing.Point(118, 45);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(52, 23);
+            this.button7.TabIndex = 8;
+            this.button7.Text = "(\'\',\'\')";
+            this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(255, 80);
+            this.Controls.Add(this.button7);
+            this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
@@ -126,5 +150,7 @@
         private Button button5;
         private NotifyIcon notifyIcon1;
         private ContextMenuStrip contextMenuStrip1;
+        private Button button6;
+        private Button button7;
     }
 }
